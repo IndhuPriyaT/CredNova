@@ -20,7 +20,7 @@ export default function Consent() {
         </div>
         <h2 style={{fontSize: '32px', marginBottom: '16px'}}>Link Your Financial Data</h2>
         <p style={{marginBottom: '32px', color: 'var(--text-muted)', fontSize: '16px', lineHeight: '1.6'}}>
-          CredNova uses Account Aggregators to securely fetch your real-time bank statements. 
+          GigTrust uses Account Aggregators to securely fetch your real-time bank statements. 
           Your data is entirely encrypted, never stored permanently, and only analyzed to build your dynamic alternate credit score.
         </p>
         

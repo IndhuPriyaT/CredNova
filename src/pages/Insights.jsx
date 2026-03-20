@@ -1,7 +1,7 @@
 export default function Insights() {
   return (
     <>
-      <div className="page-header">
+      <div className="page-header" style={{marginBottom: '30px'}}>
         <h2>Score Insights</h2>
       </div>
 

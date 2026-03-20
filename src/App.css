@@ -32,7 +32,7 @@ body { font-family: 'Inter', sans-serif; background-color: var(--bg-color); colo
 }
 
 .logo { display: flex; align-items: center; gap: 8px; margin-bottom: 50px; }
-.logo-icon { font-size: 32px; color: var(--primary-green); }
+.logo-icon { font-size: 32px; color: var(--primary-blue); }
 .logo h1 { font-size: 26px; font-weight: 800; }
 
 .nav-links { display: flex; flex-direction: column; gap: 12px; }

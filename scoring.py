@@ -1,6 +1,6 @@
-def calculate_crednova_score(transaction_consistency, income_stability, spending_discipline, carbon_footprint_bonus):
+def calculate_gigtrust_score(transaction_consistency, income_stability, spending_discipline, carbon_footprint_bonus):
     """
-    Calculates the CredNova alternate credit score.
+    Calculates the GigTrust alternate credit score.
     
     Inputs:
     - transaction_consistency (0-100): Regularity of positive transactions
@@ -67,7 +67,7 @@ def calculate_crednova_score(transaction_consistency, income_stability, spending
 
 # Example Usage
 if __name__ == "__main__":
-    result = calculate_crednova_score(
+    result = calculate_gigtrust_score(
         transaction_consistency=85,
         income_stability=90,
         spending_discipline=70,
